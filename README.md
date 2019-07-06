@@ -1,29 +1,21 @@
-# todo-ninja
+# Todo Ninja
 
-## Project setup
-```
-npm install
-```
+> Use Vuetify and Vue to create a basic todo app.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Dependencies
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vuetify 1.5.16
+- Vue 3.8.4
+- NPM 6.9.2
+- Node.js 10.16.2
+
+
+
+## Sources
+
+- [Net Ninja Tutorial](https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5)
+- [Vuetify.js](https://vuetifyjs.com/en/)
+
