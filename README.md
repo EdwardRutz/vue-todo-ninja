@@ -9,7 +9,6 @@
 
 - Vuetify 1.5.16
 - Vue 3.8.4
-- NPM 6.9.2
 - Node.js 10.16.2
 
 
